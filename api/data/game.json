@@ -1,0 +1,29 @@
+{
+  "games" : [{
+    "rule" : "5 points for connecting with all scheduled customers in 1 week",
+    "value": 5,
+  },{
+    "rule" : "3 points for complimented deliverables",
+    "value": 3,
+  },{
+    "rule" : "10 points for conversion contest win, -1 point for looser",
+    "value": 10,
+  },{
+    "rule" : "10 points for bounce contest win, -1 point for looser",
+    "value": 10,
+  },{
+    "rule" : "5 points for most weekly support requests completed",
+    "value": 5,
+  }],
+  "players" : {
+    "byron" : {
+      "points" : 9,
+    },
+    "jd" : {
+      "points" : 9,
+    },
+    "michael" : {
+      "points" : 0,
+    },
+  },
+}

@@ -1,0 +1,11 @@
+{
+  "name": "liveStats",
+  "version": "0.0.0",
+  "description": "A quick and dirty live stats app for lamp servers",
+  "main": "index.js",
+  "author": "Michael Hurley",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.14.0"
+  }
+}
